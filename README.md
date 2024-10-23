@@ -1,3 +1,3 @@
 ## sajmonware-hq
 
-<img src="img/naruto_freebsd.png" width="25%">
+<img src="img/naruto_freebsd.png" width="35%">

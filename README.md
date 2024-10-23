@@ -1,3 +1,3 @@
 ## sajmonware-hq
 
-![Naruto doing a FreeBSD-powered Rasengan](img/naruto_freebsd.png | width=100)
+<img src="img/naruto_freebsd.png" width="50%">

@@ -1,6 +1,6 @@
 ## sajmonware-hq
 
-Hi, my name's Simon! I like computers but hate printers with a passion.
+I'm Simon. Welcome to my printer haters club.
 
 ![My programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sajmon170&layout=compact)
-<img src="img/naruto_freebsd.png" width="18%">
+<img src="img/nixos.png" width="20%">
